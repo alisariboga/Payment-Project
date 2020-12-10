@@ -1,4 +1,4 @@
-package com.payroll.LittleProject;
+package com.payroll.PaymentProject;
 
 import org.springframework.http.HttpStatus;
 import org.springframework.web.bind.annotation.ControllerAdvice;

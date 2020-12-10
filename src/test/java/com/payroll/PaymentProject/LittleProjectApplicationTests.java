@@ -1,4 +1,4 @@
-package com.payroll.LittleProject;
+package com.payroll.PaymentProject;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

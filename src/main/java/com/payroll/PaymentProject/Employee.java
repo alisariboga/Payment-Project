@@ -1,4 +1,4 @@
-package com.payroll.LittleProject;
+package com.payroll.PaymentProject;
 
 import javax.persistence.Entity;
 import javax.persistence.GeneratedValue;
